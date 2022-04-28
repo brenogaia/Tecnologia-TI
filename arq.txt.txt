@@ -1,3 +1,4 @@
 Primeira linha do arq.txt
 
-tecnologia em ti
+TI - Tecnologia 
+
