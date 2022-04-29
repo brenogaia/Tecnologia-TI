@@ -3,3 +3,4 @@ Primeira linha do arq.txt
 TI - Tecnologia 
 
 TI 2
+TI 3
